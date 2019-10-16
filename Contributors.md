@@ -1,4 +1,4 @@
-# Thanks to Mohit Tarani for this encouraging students to github and open-source.
+# Thanks to Mohit Tarani for  encouraging students to github and open-source.
 
 # Thanks to our contributors !!!
 
